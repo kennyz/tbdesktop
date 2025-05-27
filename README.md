@@ -1,5 +1,6 @@
 # tbdesktop
-desktop application release pages
+Desktop application beta/test downloads
+The page is public for everyone around the world
 
 # Downloads
 ## Windows
